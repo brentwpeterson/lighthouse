@@ -10,6 +10,5 @@ npm install -g lighthouse
 
 The Github repo for Lighthouse is here 
 
-http://github.com - automatic!
-[GitHub](https://github.com/GoogleChrome/lighthouse)
+(https://github.com/GoogleChrome/lighthouse)
 
