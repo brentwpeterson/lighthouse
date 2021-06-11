@@ -1,7 +1,7 @@
-#Brents simple Lighthouse testing script
+# Brents simple Lighthouse testing script
 I created this to help automate testing and reporting on multiple sites. This script can be setup to run via a cron at any interval.
 
-#MAC
+## MAC
 I am using Brew on my Mac
 
 ```bash
